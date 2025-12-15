@@ -31,8 +31,6 @@
 I am a Management Information Systems student passionate about artificial intelligence, innovation, and creating sustainable impact. With practical experience in AI-driven projects, data analysis, and business development, I blend technical expertise with an entrepreneurial mindset to develop meaningful solutions.
 </p>
 
-<br/>
-<br/>
 <h2 align="left" style="color:#808ED8;"> Languages & Tools</h2>
 
 <!-- SKILLS -->
