@@ -62,12 +62,16 @@ I am a Management Information Systems student passionate about artificial intell
 
 <br/>
 <br/>
+</div>
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:808ED8,100:808ED8&height=110&section=footer"
-    alt="footer wave"
-  />
-</p>
+<div class="wave-container">
+  <svg viewBox="0 0 1440 320" preserveAspectRatio="none">
+    <path fill="#6C73FF" fill-opacity="0.25"
+      d="M0,224L48,213.3C96,203,192,181,288,176C384,171,480,181,576,186.7C672,192,768,192,864,186.7C960,181,1056,171,1152,176C1248,181,1344,203,1392,213.3L1440,224L1440,320L0,320Z">
+    </path>
+  </svg>
+</div>
 
+</body>
+</html>
 
