@@ -31,6 +31,8 @@
 I am a Management Information Systems student passionate about artificial intelligence, innovation, and creating sustainable impact. With practical experience in AI-driven projects, data analysis, and business development, I blend technical expertise with an entrepreneurial mindset to develop meaningful solutions.
 </p>
 
+<br/>
+
 <h2 align="left" style="color:#808ED8;"> Languages & Tools</h2>
 
 <!-- SKILLS -->
@@ -77,7 +79,6 @@ I am a Management Information Systems student passionate about artificial intell
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </p>
 
-<br/>
 <br/>
 
 <!-- FOOTER WAVE -->
