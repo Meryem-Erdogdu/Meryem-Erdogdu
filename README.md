@@ -1,22 +1,40 @@
+<!-- TOP WAVE -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:808ED8,100:808ED8&height=110&section=header"
+    alt="header wave"
+  />
+</p>
+
+<!-- TYPING -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=808ed8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Meryem+Erdogdu;AI+%26+Data+Analytics+Enthusiast;Building+Impactful+Solutions" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=808ED8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Meryem+Erdogdu;AI+%26+Data+Analytics+Enthusiast;Building+Impactful+Solutions"
+      alt="Typing SVG"
+    />
   </a>
 </p>
 
+<!-- STATS (AYNI RENK) -->
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Meryem-Erdogdu?label=Followers&style=for-the-badge&color=808ED8&labelColor=1a1b27"/>
-  <img src="https://komarev.com/ghpvc/?username=Meryem-Erdogdu&label=Profile+Views&style=for-the-badge&color=808ED8"/>
+  <img
+    src="https://img.shields.io/github/followers/Meryem-Erdogdu?label=Followers&style=for-the-badge&color=808ED8&labelColor=1a1b27"
+  />
+  <img
+    src="https://komarev.com/ghpvc/?username=Meryem-Erdogdu&label=Profile+Views&style=for-the-badge&color=808ED8&labelColor=1a1b27"
+  />
 </p>
 
+<!-- ABOUT -->
 <p align="left">
 I am a Management Information Systems student passionate about artificial intelligence, innovation, and creating sustainable impact. With practical experience in AI-driven projects, data analysis, and business development, I blend technical expertise with an entrepreneurial mindset to develop meaningful solutions.
 </p>
 
-
 <br/>
 <br/>
 
+<!-- SKILLS -->
 <p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
@@ -62,16 +80,13 @@ I am a Management Information Systems student passionate about artificial intell
 
 <br/>
 <br/>
-</div>
 
-<div class="wave-container">
-  <svg viewBox="0 0 1440 320" preserveAspectRatio="none">
-    <path fill="#6C73FF" fill-opacity="0.25"
-      d="M0,224L48,213.3C96,203,192,181,288,176C384,171,480,181,576,186.7C672,192,768,192,864,186.7C960,181,1056,171,1152,176C1248,181,1344,203,1392,213.3L1440,224L1440,320L0,320Z">
-    </path>
-  </svg>
-</div>
+<!-- FOOTER WAVE -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:808ED8,100:808ED8&height=110&section=footer"
+    alt="footer wave"
+  />
+</p>
 
-</body>
-</html>
 
