@@ -19,7 +19,7 @@
 <!-- STATS (TAMAMEN AYNI RENK) -->
 <p align="center">
   <img
-    src="https://img.shields.io/github/followers/Meryem-Erdogdu?label=Followers&style=for-the-badge&color=808ED8&labelColor=808ED8"
+    src="https://img.shields.io/github/followers/Meryem-Erdogdu?label=Followers&style=for-the-badge&color=808ED8"
   />
   <img
     src="https://komarev.com/ghpvc/?username=Meryem-Erdogdu&label=Profile%20Views&style=for-the-badge&color=808ED8"
