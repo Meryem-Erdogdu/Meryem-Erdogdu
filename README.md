@@ -33,9 +33,6 @@ I am a Management Information Systems student passionate about artificial intell
 
 <br/>
 <br/>
-
-<hr style="border: 0; height: 1px; background: #808ED8; margin: 40px 0;" />
-
 <h2 align="left" style="color:#808ED8;"> Languages & Tools</h2>
 
 <!-- SKILLS -->
